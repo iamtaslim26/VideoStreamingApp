@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357069138720",
+    "firebase_url": "https://video-streaming-app-68cb9-default-rtdb.firebaseio.com",
+    "project_id": "video-streaming-app-68cb9",
+    "storage_bucket": "video-streaming-app-68cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357069138720:android:11301e64097ddc3db54545",
+        "android_client_info": {
+          "package_name": "com.kgec.videostreamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357069138720-i2i3gfd30m401ija9m6nu94tslvmqbnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxKpvkFv0vqTLhVaVyHV8itnrIVVUC7uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357069138720-i2i3gfd30m401ija9m6nu94tslvmqbnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
